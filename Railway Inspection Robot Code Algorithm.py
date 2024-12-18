@@ -8,7 +8,7 @@ initialize_robot():
 
 # 2. Start robot movement
 start_movement():
-    deploy_pneumatic_legs_to_track()
+    deploy_robot_on_track()
     activate_wheels()
     follow_track()
 
@@ -27,15 +27,11 @@ perform_inspections():
     if detect_suspension_damage(image):
         send_alert("Suspension damage detected")
 
-    # d. Gas leakage detection
-    if detect_gas_leakage():
-        send_alert("Gas leakage detected")
-
-    # e. Wheel wear detection
+    # d. Wheel wear detection
     if detect_wheel_wear(image):
         send_alert("Wheel wear detected")
 
-    # f. Overheating detection
+    # e. Overheating detection
     if detect_overheating():
         send_alert("Overheating detected")
 
