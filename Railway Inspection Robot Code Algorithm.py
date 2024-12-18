@@ -2,7 +2,7 @@
 
 # 1. Initialize the robot
 initialize_robot():
-    setup_pneumatic_legs()
+    setup_robot()
     setup_wheels()
     connect_to_web_app()
 
