@@ -89,3 +89,18 @@ This project detects missing bolts in mechanical assemblies using the YOLOv8 obj
 🚧 **Purpose**: Automate visual inspection to ensure fast, accurate detection of missing bolts in real-time applications.
 
 ---
+Here’s the same GitHub-style intro, tailored for **wheel defect detection**:
+
+---
+
+# 🚆 Wheel Defect Detection using YOLOv8
+
+This project detects **scratches**, **discoloration**, **cracks**, and **shelling** on train wheels using the YOLOv8 object detection model. The model is trained on a custom dataset created with Roboflow and fine-tuned using the Ultralytics YOLOv8 framework.
+
+🔍 **Purpose**: Automate the inspection process to ensure fast, accurate detection of critical wheel defects in railway systems.
+
+---
+
+Want to add [sample detection results](f) or a [badge for model performance](f) to the README?
+
+
