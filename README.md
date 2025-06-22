@@ -89,10 +89,3 @@ This project detects missing bolts in mechanical assemblies using the YOLOv8 obj
 🚧 **Purpose**: Automate visual inspection to ensure fast, accurate detection of missing bolts in real-time applications.
 
 ---
-
-Want to include a [demo video or results GIF](f) to make it more engaging?
-
-- **Safety and Control**: Allows manual intervention (STOP/PAUSE/RESUME).  
-- **Seamless Navigation**: Pneumatic legs and powered wheels ensure stable movement on the track.  
-
-This structured algorithm ensures reliable, efficient, and automated train undercarriage inspections while enabling real-time fault detection and communication.
