@@ -99,8 +99,5 @@ This project detects **scratches**, **discoloration**, **cracks**, and **shellin
 
 🔍 **Purpose**: Automate the inspection process to ensure fast, accurate detection of critical wheel defects in railway systems.
 
----
-
-Want to add [sample detection results](f) or a [badge for model performance](f) to the README?
 
 
