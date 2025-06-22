@@ -76,6 +76,22 @@ This algorithm outlines the functioning of a **railway inspection robot** design
 ### **Key Features**  
 - **Autonomous Inspection**: Automates fault detection (cracks, discoloration, gas leaks, overheating).  
 - **Real-Time Communication**: Sends live updates and receives commands from the monitoring system.  
+
+
+Here's a short and clean **GitHub README introduction** for your project:
+
+---
+
+# 🔩 Missing Bolt Detection using YOLOv8
+
+This project detects missing bolts in mechanical assemblies using the YOLOv8 object detection model. The model is trained on a custom dataset prepared via [Roboflow](https://roboflow.com/) and fine-tuned using the Ultralytics YOLOv8 framework.
+
+🚧 **Purpose**: Automate visual inspection to ensure fast, accurate detection of missing bolts in real-time applications.
+
+---
+
+Want to include a [demo video or results GIF](f) to make it more engaging?
+
 - **Safety and Control**: Allows manual intervention (STOP/PAUSE/RESUME).  
 - **Seamless Navigation**: Pneumatic legs and powered wheels ensure stable movement on the track.  
 
